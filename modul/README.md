@@ -1,1 +1,0 @@
-# AUTO SCRIPT SSH
